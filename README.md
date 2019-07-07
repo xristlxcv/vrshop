@@ -1,6 +1,6 @@
 # vrshop
 
-HOW TO START
+# HOW TO START
 
 npm install -g react-360-cli
 
