@@ -9,11 +9,11 @@ cd vrshop
 
 ```
 
-copy-paste the files(index.js,index.html,client.js)
+-copy-paste the files(index.js,index.html,client.js)
 
-create a folder "components" and copy-paste(LeftPanel.js,ModelView.js,products.js,RightPanel.js)
+-create a folder "components" and copy-paste(LeftPanel.js,ModelView.js,products.js,RightPanel.js)
 
-copy-paste(360_world.jpg,cleveland.png,MILEPTY.png,phila.png,raptors.png,rockets.png,t-shirt.obj) at the 'static_asset' folder
+-copy-paste(360_world.jpg,cleveland.png,MILEPTY.png,phila.png,raptors.png,rockets.png,t-shirt.obj) at the 'static_asset' folder
 ```
 npm start
 ```
