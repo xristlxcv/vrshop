@@ -4,7 +4,7 @@ http://omniscient-pest.surge.sh/
 
 # Details
 
-For simplicity reason i don't have materials and textures on 3d-model.
+For simplicity reasons i don't have materials and textures on 3d-model.
 I simply have a color for each model.
 
 # HOW TO START
